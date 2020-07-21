@@ -2,7 +2,7 @@
 /**
  * Plugin Name: CMS Password bcrypt
  * Plugin URI:  https://github.com/kubeeapp/cms-password-bcrypt/
- * Description: Replaces wp_hash_password and wp_check_password with PHP 5.5's password_hash and password_verify.
+ * Description: Replaces wp_hash_password and wp_check_password with PHP 5.5's password_hash and password_verify...
  * Author:      Kubee
  * Author URI:  https://kubee.ga/
  * Version:     1.0
